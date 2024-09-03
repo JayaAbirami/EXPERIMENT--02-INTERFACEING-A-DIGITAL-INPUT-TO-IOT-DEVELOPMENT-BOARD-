@@ -110,7 +110,7 @@ void IRsensor()
 ## Output  :
  
  
- ![image](https://github.com/user-attachments/assets/7103fea5-cda8-4270-ae70-b004c8b3b7fb)
+ ![WhatsApp Image 2024-09-03 at 7 11 43 PM](https://github.com/user-attachments/assets/e9538c47-527a-403b-858a-ceb7dab83e23)
 
  
 ## Result :
